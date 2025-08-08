@@ -95,9 +95,9 @@ Collier, Blake. “The Shape of Revelation and Evil: Halloween.” In _Mockingbi
 
 Collier, Blake. “A Final Fling Before the Big Sleep: It Follows and the Death of God.” In Christ and Pop Culture Goes to the Movies: 2015, edited by Wade Bearden and Kevin McLenithan. Christ & Pop Culture, 2016.
 
-Collier, Blake. “Oh! The Horror… | of Broken Bodies & Dreadful Revelations.” Film Criticism. Reel World Theology, October 6, 2016. <https://www.reelworldtheology.com/oh-the-horror-of-broken-bodies-dreadful-revelations/>.
+Collier, Blake. “Oh! The Horror… - of Broken Bodies & Dreadful Revelations.” Film Criticism. Reel World Theology, October 6, 2016. <https://www.reelworldtheology.com/oh-the-horror-of-broken-bodies-dreadful-revelations/>.
 
-Collier, Blake. “Oh! The Horror… | of Deconstructing the Heart of the Slasher Genre.” Film Criticism. Reel World Theology, February 23, 2017. <https://www.reelworldtheology.com/oh-the-horror-of-deconstructing-the-heart-of-the-slasher-genre/>.
+Collier, Blake. “Oh! The Horror… - of Deconstructing the Heart of the Slasher Genre.” Film Criticism. Reel World Theology, February 23, 2017. <https://www.reelworldtheology.com/oh-the-horror-of-deconstructing-the-heart-of-the-slasher-genre/>.
 
 Collier, Blake. “Stay Woke and Don’t Scream: Get Out‘s Subversion of White Horror Narratives.” Film Criticism. Reel World Theology, March 2, 2017. <https://www.reelworldtheology.com/stay-woke-and-dont-scream-get-outs-subversion-of-white-horror-narratives/>.
 
