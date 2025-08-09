@@ -131,4 +131,4 @@ Collier, Blake. “Martyrs, Pascal Laugier (2008).” In _Toxic Cultures: A Comp
 
 “Lovecraft & Race” – Texas Tech Library’s Science Fiction & Fantasy Book Club – Online Presentation - 2019
 
-“The Thing More Terrifying than Fear, Its Antidote” – 2025 NYC Mockingbird Conference – May 1-3.
+“The Thing More Terrifying than Fear, Its Antidote” – 2025 NYC Mockingbird Conference – May 1-3. <https://vimeo.com/1106252414?share=copy>.
