@@ -6,23 +6,23 @@ permalink: /curriculumvitae/
 
 ### **EDUCATION**
 
-**Texas Tech University**, Department of History | Lubbock, TX
+**Texas Tech University**, Department of History - Lubbock, TX
 
-- M.A., British Imperial History | August 2009
+- M.A., British Imperial History - August 2009
 - Minor, Philosophy
 - Thesis: “For Thine is the Kingdom: British Missionaries in East Africa, 1870-1925”
 
-**The University of Texas at Arlington**, Department of History | Arlington, TX
+**The University of Texas at Arlington**, Department of History - Arlington, TX
 
-- B.A., History | May 2006
+- B.A., History - May 2006
 - Minor, Philosophy
 - Honors Thesis: “‘I Pledge Allegiance to A Country Without Borders’: The Lynch Treason Trial, 1903”
 
 ### **TEACHING EXPERIENCE**
 
-**Texas Tech University**, Department of History | Lubbock, TX
+**Texas Tech University**, Department of History - Lubbock, TX
 
-**_Teaching Assistant_** | 2006-2009
+**_Teaching Assistant_** - 2006-2009
 
 - Planned and taught 4 discussion sections with 80-100 first-and second-year students per semester.
 - Facilitated lively discussions around the main lecture each week by incorporating novels, journal articles, and other outside texts.
@@ -31,9 +31,9 @@ permalink: /curriculumvitae/
 - Met with students one-on-one to provide additional guidance in how to successfully accomplish an assignment.
 - Frequently mentored students beyond classes when they needed guidance on life and career goals.
 
-**Westminster Presbyterian Church** | Amarillo, TX
+**Westminster Presbyterian Church** - Amarillo, TX
 
-**_Interim College Minister_** | 2011-2013
+**_Interim College Minister_** - 2011-2013
 
 - Instructed adult continuing education classes on a variety of topics including Church History.
 - Mentored college students to develop spiritual maturity and awareness.
@@ -53,32 +53,32 @@ permalink: /curriculumvitae/
 
 ### **LEADERSHIP EXPERIENCE**
 
-**Texas Tech University**, Upward Bound Program | Lubbock, TX
+**Texas Tech University**, Upward Bound Program - Lubbock, TX
 
-**_Residential Advisor_** | Summer 2008
+**_Residential Advisor_** - Summer 2008
 
 - Provided supervision and advisement for high school student enrolled in the program and living on campus in dooms through the duration of the program.
 - Provided assistance to teachers in order to provide the best and most stimulating educational environment possible.
 - Provided mentorship and tutoring to high school students during the duration of the program.
 - Assisted with chaperoning students on any local education trips.
 
-**Amarillo College**, Amarillo Bible Chair Board | Amarillo, TX
+**Amarillo College**, Amarillo Bible Chair Board - Amarillo, TX
 
-**_Board Member_** | 2012-2013
+**_Board Member_** - 2012-2013
 
 - Assisted in guiding the direction of the programs offered at the Bible Chair at Amarillo College including courses in Greek, Church History, and mentorship opportunities for students who were aiming to go to seminary.
 - Assisted with allocating the program’s budget each semester and finding creative solutions to budgetary constraints.
 
-**Casas Por Christo** | El Paso, TX/Juarez, Mexico
+**Casas Por Christo** - El Paso, TX/Juarez, Mexico
 
-**_Group Leader/Volunteer_** | 2010-2013
+**_Group Leader/Volunteer_** - 2010-2013
 
 - Volunteered for three trips to Juarez to help build low-cost homes for those who were in extreme poverty.
 - Led two church groups to Juarez to do the same work during my time as Interim College Minister.
 
-**SGA Design Group** | Tulsa, OK
+**SGA Design Group** - Tulsa, OK
 
-**_CAD Tech/Project Manager_** | 2022-Present
+**_CAD Tech/Project Manager_** - 2022-Present
 
 - Mentored new hires at the company in the expectations and processes of the job.
 - Helped better develop the CAD and Revit skills of co-workers and new hires.
@@ -95,9 +95,9 @@ Collier, Blake. “The Shape of Revelation and Evil: Halloween.” In _Mockingbi
 
 Collier, Blake. “A Final Fling Before the Big Sleep: It Follows and the Death of God.” In Christ and Pop Culture Goes to the Movies: 2015, edited by Wade Bearden and Kevin McLenithan. Christ & Pop Culture, 2016.
 
-Collier, Blake. “Oh! The Horror… | of Broken Bodies & Dreadful Revelations.” Film Criticism. Reel World Theology, October 6, 2016. <https://www.reelworldtheology.com/oh-the-horror-of-broken-bodies-dreadful-revelations/>.
+Collier, Blake. “Oh! The Horror… - of Broken Bodies & Dreadful Revelations.” Film Criticism. Reel World Theology, October 6, 2016. <https://www.reelworldtheology.com/oh-the-horror-of-broken-bodies-dreadful-revelations/>.
 
-Collier, Blake. “Oh! The Horror… | of Deconstructing the Heart of the Slasher Genre.” Film Criticism. Reel World Theology, February 23, 2017. <https://www.reelworldtheology.com/oh-the-horror-of-deconstructing-the-heart-of-the-slasher-genre/>.
+Collier, Blake. “Oh! The Horror… - of Deconstructing the Heart of the Slasher Genre.” Film Criticism. Reel World Theology, February 23, 2017. <https://www.reelworldtheology.com/oh-the-horror-of-deconstructing-the-heart-of-the-slasher-genre/>.
 
 Collier, Blake. “Stay Woke and Don’t Scream: Get Out‘s Subversion of White Horror Narratives.” Film Criticism. Reel World Theology, March 2, 2017. <https://www.reelworldtheology.com/stay-woke-and-dont-scream-get-outs-subversion-of-white-horror-narratives/>.
 
@@ -131,4 +131,4 @@ Collier, Blake. “Martyrs, Pascal Laugier (2008).” In _Toxic Cultures: A Comp
 
 “Lovecraft & Race” – Texas Tech Library’s Science Fiction & Fantasy Book Club – Online Presentation - 2019
 
-“The Thing More Terrifying than Fear, Its Antidote” – 2025 NYC Mockingbird Conference – May 1-3.
+“The Thing More Terrifying than Fear, Its Antidote” – 2025 NYC Mockingbird Conference – May 1-3. <https://vimeo.com/1106252414?share=copy>.
