@@ -3,7 +3,6 @@ layout: post
 title:  "The New Site"
 date:   2025-08-08 13:38:02 -0500
 categories: blog
-typora-root-url: ../Photos/dither_it_7185505001_5b6a3f7293_b-1500325948.png
 ---
 ![Texas Panhandle](https://upload.wikimedia.org/wikipedia/commons/f/f8/Tenantless_farm_Texas_panhandle_1938.jpg)
 
