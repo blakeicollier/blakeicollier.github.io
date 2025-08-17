@@ -127,13 +127,13 @@ Collier, Blake, and Ian Olson. “Strange Fascinations.” The Mockingbird, 2021
 
 Collier, Blake. “Martyrs, Pascal Laugier (2008).” In _Toxic Cultures: A Companion_, edited by Simon Bacon, Vol. 8. Genre Fiction and Film Companions. Peter Lang, 2021.
 
-Collier, Blake I. “Death Becomes Us: A Global Ghost Story.” Technology. The Observer Magazine, September 3, 2024. https://theobservermagazine.substack.com/p/death-becomes-us-a-global-ghost-story
+Collier, Blake I. “Death Becomes Us: A Global Ghost Story.” Technology. The Observer Magazine, September 3, 2024. <https://theobservermagazine.substack.com/p/death-becomes-us-a-global-ghost-story>
 
-Collier, Blake I. “The World is Weirder than You Think It Is.” Psychogeography. Mockingbird, October 8, 2024. https://mbird.com/psychology/the-world-is-weirder-than-you-think-it-is/
+Collier, Blake I. “The World is Weirder than You Think It Is.” Psychogeography. Mockingbird, October 8, 2024. <https://mbird.com/psychology/the-world-is-weirder-than-you-think-it-is/>
 
-Collier, Blake I. “The Medium is the Message…of the End.” Technology. Mockingbird, October 21, 2024. https://mbird.com/everyday/the-medium-is-the-message-of-the-end/
+Collier, Blake I. “The Medium is the Message…of the End.” Technology. Mockingbird, October 21, 2024. <https://mbird.com/everyday/the-medium-is-the-message-of-the-end/>
 
-Collier, Blake I. “The Home Haunts Us: An Architectural Body Horror.” Place Theory. The Observer Magazine, May 9, 2025. https://theobservermagazine.substack.com/p/the-home-haunts-us
+Collier, Blake I. “The Home Haunts Us: An Architectural Body Horror.” Place Theory. The Observer Magazine, May 9, 2025. <https://theobservermagazine.substack.com/p/the-home-haunts-us>
 
 ### **INVITED TALKS AND PRESENTATIONS**
 
