@@ -14,4 +14,4 @@ I am intending for this site to be my landing place. So I can point interested p
 
 Until then, I hope you will check in from time to time. My email is on the front page, so feel free to say hello.
 
-![signature](/Users/sonofbyford/Documents/GitHub/blakeicollier.github.io/docs/signature-5439065.png)
+![signature-5438883](/Users/sonofbyford/Documents/GitHub/blakeicollier.github.io/docs/signature-5438883.png)
