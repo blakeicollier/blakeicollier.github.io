@@ -1,7 +1,7 @@
 ---
-Layout: page
-Title: Podcasts
-Permalink: /podcasts/
+layout: page
+title: Podcasts
+permalink: /podcasts/
 ---
 
 I have left a long line of dead podcasts in my wake, most of which are nowhere to be found. (If you find them, please let me know). 
