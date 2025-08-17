@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+typora-root-url: ./signature.png
 ---
 
 Hi. If you can't tell already, my name is Blake I. Collier. (I include the "I." to sound distinguished, but in reality I am anything but that). I was born and raised in the flatlands and literal shitstorms of the Texas Panhandle. That land still lives inside of me and my heart belongs there even though I currently live in the so-called "Green Country" of Tulsa, Oklahoma. I have a wonderful wife who spends her life "keeping kids safe" as my oldest son always says. She also keeps adults safe as well. I have two boys who I call the "Sons of Thunder" due, in part, to their natures, but also due to the fact their their names are the Gaelic forms of James and John (check out Mark 3:17 if you aren't familiar with that nickname). I love them to death (and back).
@@ -14,4 +15,4 @@ I am intending for this site to be my landing place. So I can point interested p
 
 Until then, I hope you will check in from time to time. My email is on the front page, so feel free to say hello.
 
-![signature-5438883](/Users/sonofbyford/Documents/GitHub/blakeicollier.github.io/docs/signature-5438883.png)
+![](https://p.ipic.vip/9917kt.png)
