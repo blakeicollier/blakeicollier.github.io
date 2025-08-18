@@ -139,4 +139,6 @@ Collier, Blake I. “The Home Haunts Us: An Architectural Body Horror.” Place 
 
 “Lovecraft & Race” – Texas Tech Library’s Science Fiction & Fantasy Book Club – Online Presentation - 2019
 
-“The Thing More Terrifying than Fear, Its Antidote” – 2025 NYC Mockingbird Conference – May 1-3. <https://vimeo.com/1106252414?share=copy>.
+“The Thing More Terrifying than Fear, Its Antidote” – 2025 NYC Mockingbird Conference – May 1-3. 
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1106252414?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Blake Collier - &quot;The Thing More Terrifying Than Fear, Its Antidote&quot;"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
