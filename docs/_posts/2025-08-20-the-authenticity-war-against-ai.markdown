@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Authenticity War Against AI"
-date:   2025-08-20 13:38:02 -0500
+date:   2025-08-20 22:54:00 -0500
 categories: technology, blog
 ---
 
