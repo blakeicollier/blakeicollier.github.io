@@ -2,8 +2,7 @@
 layout: post
 title:  "The Authenticity War Against AI"
 date:   2025-08-20 22:33:00 -0500
-categories: technology
-description: Finding joy in the unstructured play of language and its interplay with the structured joy of shaping it.
+categories: technology, blog
 ---
 
 ## The Authenticity War Against AI
