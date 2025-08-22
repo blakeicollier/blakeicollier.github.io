@@ -4,6 +4,8 @@ title: Curriculum Vitae
 permalink: /curriculumvitae/
 ---
 
+![dither_it_Screenshot 2025-08-22 at 2.21.10 PM](https://p.ipic.vip/08ejx2.png)
+
 ### **EDUCATION**
 
 **Texas Tech University**, Department of History - Lubbock, TX
