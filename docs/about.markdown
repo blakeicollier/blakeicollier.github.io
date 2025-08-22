@@ -5,9 +5,7 @@ permalink: /about/
 typora-root-url: ./signature.png
 ---
 
-<html>
-
-	<meta property="og:title" content="About">
+  	<meta property="og:title" content="About">
 	<meta property="og:description" content="What you need to know about me.">
 	<meta property="og:image" content="https://p.ipic.vip/hakuxn.png">
 	<meta property="og:url" content="https://blakeicollier.github.io/about/">
