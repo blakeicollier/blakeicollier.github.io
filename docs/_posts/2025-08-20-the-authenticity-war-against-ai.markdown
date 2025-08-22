@@ -1,9 +1,11 @@
-<html><meta property="og:title" content="The Authenticity War Against AI">
+<html>
+<meta property="og:title" content="The Authenticity War Against AI">
 <meta property="og:description" content="we won't beat AI by being bad writers. we'll beat it by finding joy in what we do.
 ">
 <meta property="og:image" content="https://p.ipic.vip/h8kfpu.jpg">
 <meta property="og:url" content="https://blakeicollier.github.io/technology,/blog/2025/08/21/the-authenticity-war-against-ai.html">
-<meta property="og:type" content="article"></html>
+<meta property="og:type" content="article">
+</html>
 ---
 layout: post
 title:  "The Authenticity War Against AI"
