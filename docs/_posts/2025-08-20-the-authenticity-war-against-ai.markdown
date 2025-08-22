@@ -6,6 +6,7 @@
 <meta property="og:url" content="https://blakeicollier.github.io/technology,/blog/2025/08/21/the-authenticity-war-against-ai.html">
 <meta property="og:type" content="article">
 </html>
+
 ---
 layout: post
 title:  "The Authenticity War Against AI"
