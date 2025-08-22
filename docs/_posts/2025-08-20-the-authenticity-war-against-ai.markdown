@@ -2,7 +2,7 @@
 layout: post
 title:  "The Authenticity War Against AI"
 date:   2025-08-20 22:54:00 -0500
-categories: technology, blog
+categories: technology blog
 description: we won't be AI by being bad writers. we'll beat it by finding joy in what we do.
 <a href="https://blakeicollier.github.io/technology,/blog/2025/08/21/the-authenticity-war-against-ai.html">
     <img src="./img/qgkw5q.jpg" alt="podcast email" />
