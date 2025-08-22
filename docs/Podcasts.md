@@ -4,6 +4,8 @@ title: Podcasts
 permalink: /podcasts/
 ---
 
+![dither_it_tempImageVAPau3_tempImagebryFIH 1](https://p.ipic.vip/4b48ez.png)
+
 I have left a long line of dead podcasts in my wake, most of which are nowhere to be found. (If you find them, please let me know). 
 
 However, I am resurrecting one from obscurity currently over at Substack, but you can find it on all of your typical podcast apps. The TSOM panel (including myself) search far and wide for the worst music out there with the help of special guests and our own bad music magnetism. The podcast is celebrating its 10th anniversary starting this year. It truly is a worthy endeavor.
