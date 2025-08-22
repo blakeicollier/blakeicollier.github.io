@@ -15,7 +15,7 @@ My cohost Jamison Barsotti and I have been trading emails back and forth with a 
 
 Today we received another brief message from her and I was caught off guard by her signature line.
 
-![IMG_2091](https://p.ipic.vip/h8kfpu.jpg)
+![qgkw5q](https://p.ipic.vip/0m1woj.png)
 
 _*consider all typos as proof that these emails are written by me, a human, and not by AI!_
 
