@@ -1,7 +1,7 @@
 ---
 layout: page
+title: About
 permalink: /about/
-typora-root-url: ./signature.png
 ---
 <html>
 <meta property="og:description" content="what you need to know about blake i. collier.
