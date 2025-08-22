@@ -7,7 +7,7 @@ typora-root-url: ./signature.png
 <html><meta property="og:title" content="ABOUT">
 <meta property="og:description" content="what you need to know about blake i. collier.
 ">
-<meta property="og:image" content="https://p.ipic.vip/fd5s1z.png">
+<meta property="og:image" content="https://p.ipic.vip/b9idsx.png">
 <meta property="og:url" content="https://blakeicollier.github.io/about/">
 <meta property="og:type" content="article"></html>
 Hi. If you can't tell already, my name is Blake I. Collier. (I include the "I." to sound distinguished, but in reality I am anything but that). I was born and raised in the flatlands and literal shitstorms of the Texas Panhandle. That land still lives inside of me and my heart belongs there even though I currently live in the so-called "Green Country" of Tulsa, Oklahoma. I have a wonderful wife who spends her life "keeping kids safe" as my oldest son always says. She also keeps adults safe as well. I have two boys who I call the "Sons of Thunder" due, in part, to their natures, but also due to the fact their their names are the Gaelic forms of James and John (check out Mark 3:17 if you aren't familiar with that nickname). I love them to death (and back).
