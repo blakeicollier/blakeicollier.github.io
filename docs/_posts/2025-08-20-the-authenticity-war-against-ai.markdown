@@ -1,12 +1,11 @@
 <html>
-<meta property="og:title" content="The Authenticity War Against AI">
-<meta property="og:description" content="we won't beat AI by being bad writers. we'll beat it by finding joy in what we do.
-">
-<meta property="og:image" content="https://p.ipic.vip/h8kfpu.jpg">
-<meta property="og:url" content="https://blakeicollier.github.io/technology,/blog/2025/08/21/the-authenticity-war-against-ai.html">
-<meta property="og:type" content="article">
+  <meta property="og:title" content="The Authenticity War Against AI">
+  <meta property="og:description" content="we won't beat AI by being bad writers. we'll beat it by finding joy in what we do.
+  ">
+  <meta property="og:image" content="https://p.ipic.vip/h8kfpu.jpg">
+  <meta property="og:url" content="https://blakeicollier.github.io/technology,/blog/2025/08/21/the-authenticity-war-against-ai.html">
+  <meta property="og:type" content="article">
 </html>
-
 ---
 layout: post
 title:  "The Authenticity War Against AI"
@@ -14,7 +13,6 @@ date:   2025-08-20 22:54:00 -0500
 categories: technology blog
 description: we won't beat AI by being bad writers. we'll beat it by finding joy in what we do.
 ---
-
 My cohost Jamison Barsotti and I have been trading emails back and forth with a lady who does PR for various filmmakers. This lady randomly reached out to us to ask us if we wanted to interview this filmmaker who had released a praised documentary film some twenty years ago and was about to get a re-release. The first thought that naturally crossed our minds was this was a bot. _Fly By Films_ does not have a large listener base, it doesn't even have a small listener base. On last count, we have 5 or 6 people that listen regularly and all of them are people we know. We only have 17 follows on Spotify. This podcast has existed for 3+ years and we still have not reached 2,000 downloads/streams. It was a reasonable assumption for us to make. However, Jamison responded nonetheless and (_surprise!_) she wasn't a bot. She seemed to be legit. Now, as of yet, we still have not confirmed this interview, but that is beside the point. 
 
 Today we received another brief message from her and I was caught off guard by her signature line.
