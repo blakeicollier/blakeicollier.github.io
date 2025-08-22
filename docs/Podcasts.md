@@ -3,7 +3,12 @@ layout: page
 title: Podcasts
 permalink: /podcasts/
 ---
-
+<html><meta property="og:title" content="PODCASTS">
+<meta property="og:description" content="the podcasts i am a part of.
+">
+<meta property="og:image" content="https://p.ipic.vip/4b48ez.png">
+<meta property="og:url" content="https://blakeicollier.github.io/podcasts/">
+<meta property="og:type" content="article"></html>
 ![dither_it_tempImageVAPau3_tempImagebryFIH 1](https://p.ipic.vip/4b48ez.png)
 
 I have left a long line of dead podcasts in my wake, most of which are nowhere to be found. (If you find them, please let me know). 
