@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Curriculum Vitae
 permalink: /curriculumvitae/
 ---
 <html><meta property="og:title" content="CV">
