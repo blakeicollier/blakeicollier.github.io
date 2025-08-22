@@ -3,7 +3,12 @@ layout: page
 title: Podcasts
 permalink: /podcasts/
 ---
-
+<html><meta property="og:title" content="PODCASTS">
+<meta property="og:description" content="the podcasts i am a part of.
+">
+<meta property="og:image" content="https://p.ipic.vip/4b48ez.png">
+<meta property="og:url" content="https://blakeicollier.github.io/podcasts/">
+<meta property="og:type" content="article"></html>
 I have left a long line of dead podcasts in my wake, most of which are nowhere to be found. (If you find them, please let me know). 
 
 However, I am resurrecting one from obscurity currently over at Substack, but you can find it on all of your typical podcast apps. The TSOM panel (including myself) search far and wide for the worst music out there with the help of special guests and our own bad music magnetism. The podcast is celebrating its 10th anniversary starting this year. It truly is a worthy endeavor.
