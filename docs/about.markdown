@@ -7,7 +7,7 @@ typora-root-url: ./signature.png
 <html><meta property="og:title" content="ABOUT">
 <meta property="og:description" content="what you need to know about blake i. collier.
 ">
-<meta property="og:image" content="https://p.ipic.vip/fd5s1z.png">
+<meta property="og:image" content="https://p.ipic.vip/akne0j.png">
 <meta property="og:url" content="https://blakeicollier.github.io/about/">
 <meta property="og:type" content="article"></html>
 
