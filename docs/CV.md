@@ -9,7 +9,6 @@ permalink: /curriculumvitae/
 <meta property="og:image" content="https://p.ipic.vip/08ejx2.png">
 <meta property="og:url" content="https://blakeicollier.github.io/curriculumvitae/">
 <meta property="og:type" content="article"></html>
-![dither_it_Screenshot 2025-08-22 at 2.21.10 PM](https://p.ipic.vip/08ejx2.png)
 
 ### **EDUCATION**
 
