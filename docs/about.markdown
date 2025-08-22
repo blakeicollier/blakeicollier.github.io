@@ -15,4 +15,4 @@ I am intending for this site to be my landing place. So I can point interested p
 
 Until then, I hope you will check in from time to time. My email is on the front page, so feel free to say hello.
 
-![](/../9917kt.png)
+![9917kt](https://p.ipic.vip/hakuxn.png)
